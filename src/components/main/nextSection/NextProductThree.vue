@@ -50,7 +50,7 @@ let basePrice = 659
 
 let add = ref(1)
 
-let changePrice = r0ef(`$${basePrice.toFixed(2)}`)
+let changePrice = ref(`$${basePrice.toFixed(2)}`)
 
 function ChangeAdd() {
   add.value++
