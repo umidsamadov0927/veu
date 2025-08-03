@@ -7,7 +7,7 @@
           <p>/</p>
           <p class="font-[700] text-[14px] text-[#999999] leading-[21px]">pages</p>
           <p>/</p>
-          <p class="font-[700] text-[14px] text-[#000000] leading-[21px]">login</p>
+          <p class="font-[700] text-[14px] text-[#000000] leading-[21px]">cart</p>
         </div>
       </div>
     </section>

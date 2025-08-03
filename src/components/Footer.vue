@@ -59,13 +59,13 @@
             </div>
           </div>
           <div>
-            <div class="flex items-start mt-[60px] pb-[80px] gap-[280px]">
+            <div class="flex items-start mt-[60px] pb-[80px] gap-[230px]">
               <div class="flex items-center gap-[7px]">
                 <div class="flex items-center gap-[5px] rounded-[8px] py-[8px] pl-[34px] pr-[15px] border border-[#CCCCCC]">
                   <p>USD</p>
                   <img src="../assets/images/Line.svg" alt="Line">
                 </div>
-                <div class="flex items-center gap-[5px] rounded-[8px] py-[8px] pl-[24px] pr-[35px] border border-[#CCCCCC]">
+                <div class="flex items-center gap-[5px] rounded-[8px] py-[8px] pl-[24px] pr-[25px] border border-[#CCCCCC]">
                   <img src="../assets/images/SwooEng.svg" alt="eng">
                   <p>Eng</p>
                   <img class="mt-[5px]" src="../assets/images/Line.svg" alt="Line">
@@ -74,13 +74,13 @@
               <div>
                 <p class="uppercase">subscribe & get <span class="text-[red]">10% off</span> for your first order</p>
                 <div>
-                  <input class="pl-[30px] relative w-[850px] mb-[7px] border border-[#CCCCCC] h-[41px] mt-[30px]" type="email" name="input" id="input" placeholder="Enter your email address" />
-                  <p class="uppercase font-[700] text-[14px] text-[#1ABA1A] absolute mt-[-38px] translate-x-[728px] leading-[21px]">subscribe </p>
+                  <input class="pl-[30px] relative w-[730px] mb-[7px] border border-[#CCCCCC] h-[41px] mt-[30px]" type="email" name="input" id="input" placeholder="Enter your email address" />
+                  <p class="uppercase font-[700] text-[14px] text-[#1ABA1A] absolute mt-[-38px] translate-x-[620px] leading-[21px]">subscribe </p>
                 </div>
                 <i class="font-[400] text-[13px] text-[#666666] leading-[22px]">By subscribing, you’re accepted the our <span class="font-[400] text-[13px] text-[#000000]">Policy</span></i>
               </div>
             </div>
-            <div class="w-[1215px] h-[0.5px] bg-[#666666]"></div>
+            <div class="w-[1180px] h-[0.5px] bg-[#666666]"></div>
             <div class="flex items-center justify-between pb-[43px] mt-[46px]">
               <img src="../assets/images/TextImg.svg" alt="textImg">
               <div class="flex items-center gap-[23px]">
